@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yassine-MAKHLOUK
 - 👀 I’m a Web developer
 - 🌱 I’m Always learning somthing new
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web dev projects
 - 📫 How to reach me ...
 - ⚡ Fun fact: i love this web site https://quickref.me/
 
